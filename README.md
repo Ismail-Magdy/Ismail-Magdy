@@ -9,7 +9,7 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=som3a\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=som3a&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -17,12 +17,12 @@
 
 <h2 align="center">Ismail Magdy | Flutter & Mechatronics Engineer</h2>
 
-*  **Mechatronics Engineering student**
-*  **Flutter Mobile Developer** (Dart-first mindset)
-*  Strong focus on **Clean Architecture, SOLID, MVVM**
-*  Currently learning **Embedded Systems** from scratch (C, hardware basics)
-*  Interested in **Robotics, Kinematics, and Control Systems**
-*  Building real projects with **REST APIs & Firebase**
+* **Mechatronics Engineering student**
+* **Flutter Mobile Developer** (Dart-first mindset)
+* **Strong focus on Clean Architecture, SOLID, MVVM**
+* Currently learning **Embedded Systems** from scratch (C, hardware basics)
+* Interested in **Robotics, Kinematics, and Control Systems**
+* Building real projects with **REST APIs & Firebase**
 
 ---
 
@@ -39,20 +39,23 @@
 
 <h2 align="left">Tech Stack & Tools</h2>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
+### 💻 Programming Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+
+### 🔧 Frameworks & Technologies
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-orange)
 
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat\&logo=firebase\&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visual%20studio%20code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+### 🛠 Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```dart
 // Developer profile snapshot
