@@ -28,8 +28,14 @@
 
 ## 🔗 Connect with Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/ismailmagdy021](https://www.linkedin.com/in/ismailmagdy021)
-* 📸 Instagram: [https://www.instagram.com/_ismail_magdy?igsh=MW8xajJvbTN5cjcwdQ==](https://www.instagram.com/_ismail_magdy?igsh=MW8xajJvbTN5cjcwdQ==)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ismailmagdy021" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_ismail_magdy?igsh=MW8xajJvbTN5cjcwdQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 Tech Stack & Tools
 
@@ -93,10 +99,7 @@ class Developer {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=som3a&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som3a&layout=compact&theme=tokyonight" width="48%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ismailmagdy021&show_icons=true&theme=tokyonight" />
 
 ---
 
