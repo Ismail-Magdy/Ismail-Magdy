@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 Ismail Magdy | Flutter & Mechatronics Engineer 🚀
 
 * 🎓 **Mechatronics Engineering student**
 * 📱 **Flutter Mobile Developer** (Dart-first mindset)
@@ -25,6 +25,11 @@
 * 🚀 Building real projects with **REST APIs & Firebase**
 
 ---
+
+## 🔗 Connect with Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/ismailmagdy021](https://www.linkedin.com/in/ismailmagdy021)
+* 📸 Instagram: [https://www.instagram.com/_ismail_magdy?igsh=MW8xajJvbTN5cjcwdQ==](https://www.instagram.com/_ismail_magdy?igsh=MW8xajJvbTN5cjcwdQ==)
 
 ## 🚀 Tech Stack & Tools
 
@@ -40,7 +45,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visual%20studio%20code\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
@@ -59,12 +63,22 @@ class Developer {
 
 ---
 
+## 📌 Quick Facts
+
+* 🚀 Currently improving **Flutter architecture & state management (Bloc / Provider)**
+* 🔌 Learning **Embedded Systems fundamentals** (C, hardware basics)
+* 🤖 Interested in **Robotics, Kinematics, and Control Systems**
+* 💬 Ask me about **Flutter, APIs, Firebase, or Engineering basics**
+* ⚡ Fun fact: Turning coffee into clean code ☕➡️💻
+
+---
+
 ## 📚 Currently Learning
 
-* 🔥 Advanced **Flutter State Management** (Bloc / Provider / GetX)
-* 🧩 **Design Patterns** for scalable apps
-* ⚙️ **Embedded Systems** fundamentals
-* 🤖 Robotics simulations & MATLAB
+* Advanced **Flutter State Management** (Bloc / Provider)
+* **Clean Architecture & Design Patterns**
+* **Embedded Systems** fundamentals
+* Robotics simulations & MATLAB
 
 ---
 
