@@ -15,14 +15,14 @@
 
 ---
 
-## 👋 Ismail Magdy | Flutter & Mechatronics Engineer 🚀
+##  Ismail Magdy | Flutter & Mechatronics Engineer 
 
-* 🎓 **Mechatronics Engineering student**
-* 📱 **Flutter Mobile Developer** (Dart-first mindset)
-* 🧠 Strong focus on **Clean Architecture, SOLID, MVVM**
-* 🔌 Currently learning **Embedded Systems** from scratch (C, hardware basics)
-* 🤖 Interested in **Robotics, Kinematics, and Control Systems**
-* 🚀 Building real projects with **REST APIs & Firebase**
+*  **Mechatronics Engineering student**
+*  **Flutter Mobile Developer** (Dart-first mindset)
+*  Strong focus on **Clean Architecture, SOLID, MVVM**
+*  Currently learning **Embedded Systems** from scratch (C, hardware basics)
+*  Interested in **Robotics, Kinematics, and Control Systems**
+*  Building real projects with **REST APIs & Firebase**
 
 ---
 
@@ -71,11 +71,11 @@ class Developer {
 
 ## 📌 Quick Facts
 
-* 🚀 Currently improving **Flutter architecture & state management (Bloc / Provider)**
-* 🔌 Learning **Embedded Systems fundamentals** (C, hardware basics)
-* 🤖 Interested in **Robotics, Kinematics, and Control Systems**
-* 💬 Ask me about **Flutter, APIs, Firebase, or Engineering basics**
-* ⚡ Fun fact: Turning coffee into clean code ☕➡️💻
+*  Currently improving **Flutter architecture & state management (Bloc / Provider)**
+*  Learning **Embedded Systems fundamentals** (C, hardware basics)
+*  Interested in **Robotics, Kinematics, and Control Systems**
+*  Ask me about **Flutter, APIs, Firebase, or Engineering basics**
+*  Fun fact: Turning coffee into clean code ☕➡️💻
 
 ---
 
