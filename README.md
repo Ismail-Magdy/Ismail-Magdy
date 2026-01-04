@@ -15,7 +15,7 @@
 
 ---
 
-##  Ismail Magdy | Flutter & Mechatronics Engineer 
+<h2 align="center">Ismail Magdy | Flutter & Mechatronics Engineer</h2>
 
 *  **Mechatronics Engineering student**
 *  **Flutter Mobile Developer** (Dart-first mindset)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔗 Connect with Me
+<h2 align="left">Connect with Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ismailmagdy021" target="_blank">
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-## 🚀 Tech Stack & Tools
+<h2 align="left">Tech Stack & Tools</h2>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
@@ -69,7 +69,7 @@ class Developer {
 
 ---
 
-## 📌 Quick Facts
+<h2 align="left">Quick Facts</h2>
 
 *  Currently improving **Flutter architecture & state management (Bloc / Provider)**
 *  Learning **Embedded Systems fundamentals** (C, hardware basics)
@@ -79,7 +79,7 @@ class Developer {
 
 ---
 
-## 📚 Currently Learning
+<h2 align="left">Currently Learning</h2>
 
 * Advanced **Flutter State Management** (Bloc / Provider)
 * **Clean Architecture & Design Patterns**
@@ -88,7 +88,7 @@ class Developer {
 
 ---
 
-## 💬 Ask Me About
+<h2 align="left">Ask Me About</h2>
 
 * Flutter & Dart
 * Mobile App Architecture
@@ -97,13 +97,11 @@ class Developer {
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left">GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ismailmagdy021&show_icons=true&theme=tokyonight" />
 
----
 
-## ⚡ Fun Fact
+<h2 align="left">Fun Fact</h2>
 
 > Turning coffee ☕ into clean code since day one.
 
