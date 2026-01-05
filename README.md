@@ -1,13 +1,14 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=28&duration=3000&pause=1000&color=84AE92&center=true&vCenter=true&width=750&lines=Welcome+to+Ismail+Magdy's+Coding+Universe" alt="Typing SVG" />
+</div>
 
-<details>
-<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
+<div align="center">
+  <img height="450" src="https://i.redd.it/n8agw6z2smyb1.gif" alt=""/>
+</div>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
-
-</details>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=som3a&style=flat&color=orange&label=PROFILE+VIEWS)
 
@@ -26,39 +27,31 @@
 
 ---
 
-<h2 align="left">Connect with Me</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ismailmagdy021" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_ismail_magdy?igsh=MW8xajJvbTN5cjcwdQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ismailmagdy920@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
 
 <h2 align="left">Tech Stack & Tools</h2>
 
-### 💻 Programming Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+<div align="left" style="display: flex; gap: .5rem; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="45", width="45" alt="cpp logo"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45",width="45" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45",width="45" alt="Dart logo"/>
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45",width="45" alt="flutter logo"/>
+  <img src="https://github.com/user-attachments/assets/d63b9f3e-8476-460b-8ede-8f02b977e355" width="45" height="45" alt="bloc logo"/>
+  <img src="https://github.com/user-attachments/assets/21ffffcd-7552-4953-8bee-e02bc6797de9" width="45" height="45" alt="Riverpod logo"/>
+  <img src="https://github.com/user-attachments/assets/a1604607-6b70-45e6-a41d-69a9245e7013" width="45" height="45" alt="hive logo"/>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45",width="45" alt="firebase logo"/>
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45",width="45" alt="supabase logo"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45",width="45" alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="45",width="45" alt="sqlite logo"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45",width="45" alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45",width="45"  alt="github logo"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45",width="45"  height="45" alt="postman logo"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45",width="45"  alt="VScode logo"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="45",width="45"  alt="androidstudio logo"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45" height="45" alt="figma logo"/>
 
-### 🔧 Frameworks & Technologies
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-orange)
+</div>
 
-### 🛠 Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<br>
 
 ```dart
 // Developer profile snapshot
@@ -105,14 +98,30 @@ class Developer {
 
 <h2 align="left">GitHub Stats</h2>
 
+<br>
 
+<h3 align="left">
+    Let's Connect & Collaborate!
+</h3>
 
-<h2 align="left">Fun Fact</h2>
+<div align="left" style="display: flex; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/ismailmagdy021" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:ismailmagdy920@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="45" height="45" alt="gmail logo"/>
+  </a>
+  <a href="https://x.com/ismailmagdy25" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" height="45" alt="twitter logo"/>
+  </a>
+ <a href="https://www.instagram.com/_ismail_magdy?igsh=MW8xajJvbTN5cjcwdQ==" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark"
+       width="45" height="45" alt="instagram logo"/>
+</a>
 
-> Turning coffee ☕ into clean code since day one.
+</div>
 
----
-
+<br>
 <div align="center">
 
 **Thanks for visiting my profile 🚀**
