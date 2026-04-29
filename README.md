@@ -44,7 +44,7 @@ class IsmailMagdy extends Developer {
 
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
 
-<div align="left" style="display: flex; gap: .5rem; flex-wrap: wrap;">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45" width="45" alt="Dart"/>
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="45" width="45" alt="Flutter"/>
   <img src="https://github.com/user-attachments/assets/d63b9f3e-8476-460b-8ede-8f02b977e355" width="45" height="45" alt="Bloc"/>
@@ -116,7 +116,7 @@ class IsmailMagdy extends Developer {
 
 <h2 align="left">🤝 Let's Connect & Collaborate!</h2>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 6px;">
+<div align="left">
   <a href="https://www.linkedin.com/in/ismailmagdy021" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" height="45" alt="LinkedIn"/>
   </a>
