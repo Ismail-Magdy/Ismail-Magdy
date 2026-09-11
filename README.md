@@ -12,8 +12,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=som3a&style=for-the-badge&color=84AE92&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/som3a?style=for-the-badge&color=84AE92&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Ismail-Magdy&style=for-the-badge&color=84AE92&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Ismail-Magdy?style=for-the-badge&color=84AE92&labelColor=0d1117)
 
 </div>
 
