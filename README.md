@@ -47,8 +47,6 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismail-Magdy&show_icons=true&theme=dark&hide_border=true&title_color=84AE92&icon_color=84AE92&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)](https://github.com/Ismail-Magdy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Magdy&layout=compact&theme=dark&hide_border=true&title_color=84AE92&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)](https://github.com/Ismail-Magdy)
 
 </div>
 
