@@ -43,17 +43,12 @@
 
 ---
 
----
-
-<h2 align="left"> GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ismail-Magdy&theme=dark&hide_border=true&ring=84AE92&fire=84AE92&currStreakLabel=84AE92&sideLabels=84AE92&dates=ffffff&stroke=84AE92" width="70%"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismail-Magdy&show_icons=true&theme=dark&hide_border=true&title_color=84AE92&icon_color=84AE92&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)](https://github.com/Ismail-Magdy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Magdy&layout=compact&theme=dark&hide_border=true&title_color=84AE92&text_color=ffffff&bg_color=0d1117&cache_seconds=86400)](https://github.com/Ismail-Magdy)
 
 </div>
 
@@ -61,7 +56,7 @@
 
 <div align="center">
 
-[![Ismail's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ismail-Magdy&bg_color=0d1117&color=84AE92&line=84AE92&point=ffffff&area=true&area_color=84AE92&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/Ismail-Magdy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ismail-Magdy&theme=dark&hide_border=true&ring=84AE92&fire=84AE92&currStreakLabel=84AE92&sideLabels=84AE92&dates=ffffff&stroke=84AE92&bg_color=0d1117)](https://github.com/Ismail-Magdy)
 
 </div>
 
