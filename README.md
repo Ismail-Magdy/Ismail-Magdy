@@ -19,30 +19,7 @@
 
 ---
 
-<h2 align="center">⚡ About Me</h2>
-
-```dart
-class IsmailMagdy extends Developer {
-  final String role     = "Flutter Mobile Developer 📱";
-  final String degree   = "Mechatronics Engineering Student ⚙️";
-  final String focus    = "Clean Architecture · SOLID · MVVM";
-  final String learning = "Embedded Systems (C, Hardware Basics) 🔌";
-  final String passion  = "Robotics · Kinematics · Control Systems 🤖";
-
-  final Map<String, List<String>> skills = {
-    "Mobile"      : ["Flutter", "Dart", "REST APIs", "Firebase"],
-    "Architecture": ["Clean Architecture", "MVVM", "SOLID"],
-    "Engineering" : ["Mechatronics", "Robotics", "Kinematics"],
-    "Embedded"    : ["C", "Microcontrollers (Beginner)"],
-  };
-
-  String get funFact => "Turning ☕ into clean, scalable code 💻";
-}
-```
-
----
-
-<h2 align="left">🛠️ Tech Stack & Tools</h2>
+<h2 align="left"> Tech Stack & Tools</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="45" width="45" alt="Dart"/>
@@ -66,35 +43,11 @@ class IsmailMagdy extends Developer {
 
 ---
 
-<h2 align="left">🔥 What I'm Up To</h2>
-
-| 🚀 Area | 📌 Focus |
-|--------|---------|
-| 📱 **Flutter** | Advanced State Management — Bloc / Riverpod |
-| 🏛️ **Architecture** | Clean Architecture & Design Patterns |
-| 🔌 **Embedded** | Embedded Systems fundamentals (C, Hardware) |
-| 🤖 **Robotics** | Kinematics simulations & MATLAB |
-
 ---
 
-<h2 align="left">💬 Ask Me About</h2>
-
-> 🦋 **Flutter & Dart** — architecture, widgets, state management
->
-> 📡 **APIs & Firebase** — REST, real-time, auth, Firestore
->
-> ⚙️ **Mechatronics & Robotics** — kinematics, control systems basics
->
-> 🏗️ **App Architecture** — Clean Architecture, SOLID, MVVM
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left"> GitHub Stats</h2>
 
 <div align="center">
-
-
-
 
 </div>
 
@@ -114,7 +67,7 @@ class IsmailMagdy extends Developer {
 
 ---
 
-<h2 align="left">🤝 Let's Connect & Collaborate!</h2>
+<h2 align="left"> Let's Connect & Collaborate</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ismailmagdy021" target="_blank">
@@ -132,11 +85,12 @@ class IsmailMagdy extends Developer {
 </div>
 
 <br>
+<div align="center">
+
+**Thanks for visiting  let's build something great together**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:84AE92,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<div align="center">
 
-**Thanks for visiting — let's build something great together 🚀**
 
 </div>
